@@ -1,5 +1,12 @@
 # FuckCoolapk
 
+Requirements:
+```
+latest LSPosed
+```
+
+Supported version: only support Coolapk with 360jiagu and test yourself. Coolapk 12.0.2 works on my devices.
+
 This module has these features:
 
 - No News Feed Ads
