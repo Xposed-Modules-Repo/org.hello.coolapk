@@ -19,8 +19,7 @@ These features won't be added(maybe):
 
 - Remove Ads when app start
 
-To hide the module, you can try 
-```shell
-su -c pm hide org.hello.coolapk
+To hide the module, you can try HMA(Hide-My-Applist) or other methods.
 ```
-or you can use HMA(Hide-My-Applist) or else.
+pm hide org.hello.coolapk // not works for Coolapk (💩)
+```
