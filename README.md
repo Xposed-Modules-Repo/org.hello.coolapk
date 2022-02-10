@@ -1,5 +1,7 @@
 # FuckCoolapk
 
+### This module has no setting UI!!
+
 Requirements:
 ```
 latest LSPosed
