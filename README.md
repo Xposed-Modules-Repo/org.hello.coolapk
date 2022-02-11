@@ -14,6 +14,7 @@ This module has these features:
 
 - No News Feed Ads
 - Reject append shareUid and shareFrom when sharing a link
+- change UserName if the feed is abnormal
 - TODO soon...
 
 These features won't be added(maybe):
