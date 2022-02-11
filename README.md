@@ -7,7 +7,7 @@ Requirements:
 latest LSPosed
 ```
 
-Supported version: only support Coolapk with 360jiagu and test yourself. Coolapk 12.0.2 works on my devices.
+Supported version: only support Coolapk with 360jiagu and always support the latest version if I still developing this module.
 
 Some features may not work in some versions of Coolapk so test it yourself.
 This module has these features:
