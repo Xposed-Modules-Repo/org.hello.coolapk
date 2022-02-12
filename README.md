@@ -25,3 +25,5 @@ To hide the module, you can try HMA(Hide-My-Applist) or other methods.
 ```
 pm hide org.hello.coolapk // not works for Coolapk (💩)
 ```
+
+Communication: [Telegram](https://t.me/fuck_coolapk_chat)
