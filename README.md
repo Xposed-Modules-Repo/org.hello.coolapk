@@ -16,6 +16,7 @@ This module has these features:
 - Reject append shareUid and shareFrom when sharing a link
 - change UserName if the feed is abnormal
 - No "Mentioned Goods" in Feed
+- Remove bottom navigation as you want
 - TODO soon...
 
 These features won't be added(maybe):
