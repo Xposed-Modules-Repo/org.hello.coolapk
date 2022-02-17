@@ -17,6 +17,7 @@ This module has these features:
 - change UserName if the feed is abnormal
 - No "Mentioned Goods" in Feed
 - Remove bottom navigation as you want
+- Remove items in Search activity
 - TODO soon...
 
 These features won't be added(maybe):
