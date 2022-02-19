@@ -24,7 +24,7 @@ These features won't be added(maybe):
 
 - Remove Ads when app start
 
-To hide the module, you can try HMA(Hide-My-Applist) or other methods.
+To hide the module, you can try any methods with your smart.
 ```
 pm hide org.hello.coolapk // not works for Coolapk (💩)
 ```
