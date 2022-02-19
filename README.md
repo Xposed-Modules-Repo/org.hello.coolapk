@@ -1,15 +1,17 @@
-# FuckCoolapk
+# FuckCoolapk R
 
-### The setting ui in the settings activity of Coolapk.
+### The setting ui is in the settings activity of Coolapk.
 
 Requirements:
+
 ```
 latest LSPosed
 ```
 
 Supported version: only support Coolapk with 360jiagu and always support the latest version if I still developing this module.
 
-Some features may not work in some versions of Coolapk so test it yourself.
+Some features may not work in some versions of Coolapk, so test it yourself.
+
 This module has these features:
 
 - No News Feed Ads
@@ -24,7 +26,8 @@ These features won't be added(maybe):
 
 - Remove Ads when app start
 
-To hide the module, you can try any methods with your smart.
+To hide the module, you can try any methods with your smart brain.
+
 ```
 pm hide org.hello.coolapk // not works for Coolapk (💩)
 ```
