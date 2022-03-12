@@ -1,35 +1,33 @@
 # FuckCoolapk R
 
-### The setting ui is in the settings activity of Coolapk.
+[Best present for 316 and 423.](https://github.com/ejiaogl/FuckCoolapk/wiki/Background-information)
 
-Requirements:
+## Features
 
-```
-latest LSPosed
-```
+- Remove ads from feed
+- Remove tracking parameters when sharing
+- Remove "Mentioned Goods" in post
+- Remove items in search activity
+- Check post status
+- Custom navigation bar
+- ......
 
-Supported version: only support Coolapk with 360jiagu and always support the latest version if I still developing this module.
+## Requirements
 
-Some features may not work in some versions of Coolapk, so test it yourself.
+- Lastest LSPosed
+- Lastest official version (if still under maintenance)
 
-This module has these features:
+## Misc
 
-- No News Feed Ads
-- Reject append shareUid and shareFrom when sharing a link
-- change UserName if the feed is abnormal
-- No "Mentioned Goods" in Feed
-- Remove bottom navigation as you want
-- Remove items in Search activity
-- TODO soon...
+- Module setting panel is in the setting activity.
+- Some features may not work in some versions, so test it by yourself.
+- Don't forget to hide this module by your smart brain, or your account may be banned. 👀
 
-These features won't be added(maybe):
+## Communication
 
-- Remove Ads when app start
+- [Telegram channel](https://t.me/fuck_coolapk)
+- [Telegram Group](https://t.me/fuck_coolapk_chat)
 
-To hide the module, you can try any methods with your smart brain.
+## Contribution
 
-```
-pm hide org.hello.coolapk // not works for Coolapk (💩)
-```
-
-Communication: [Telegram](https://t.me/fuck_coolapk_chat)
+Currently we adopt an invitation policy, if you are interested in development, please email to fuckcoolapk@pm.me.
