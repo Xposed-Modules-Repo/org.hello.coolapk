@@ -26,7 +26,7 @@
 ## Communication
 
 - [Telegram channel](https://t.me/fuck_coolapk)
-- [Telegram Group](https://t.me/fuck_coolapk_chat)
+- [Telegram group](https://t.me/fuck_coolapk_chat)
 
 ## Contribution
 
